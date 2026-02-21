@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a passionate learner currently building my fundation in **Linux**,**Networking**,and **Cloud Computing** to become professional DevOps Engineer.
 ## 🛠 Currently learning :
--**Linux Fundamentals :** Completed Cisco Linux Unhached (Check my (https://github.com/shahedalhunity754/DevOps-learning-journey)repo).
+-**Linux Fundamentals :** Completed Cisco Linux Unhached (Check my (https://github.com/shahedalhunity754/DevOps-learning-journey) repo).
 -**Networking Essentials:** Currently diving into IP addressing, NDS, and routing.
 -**Cloud computing:** Exploring AWS basics 
 
